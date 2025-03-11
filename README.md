@@ -43,6 +43,7 @@ This repository serves as a **portfolio showcasing my projects** in data analyti
 - Investigated **fuel price fluctuations** and consumer behavior in **Western Australia**.  
 - Built a **Power BI dashboard** to track **fuel pricing trends** and analyze **economic impacts**.  
 - [Project Code & Details](https://github.com/AnalystAUS/project-wa-fuel-analysis)  
+- ▶️ [Dashboard Overview Video Clip](https://youtu.be/XY9UMDeZFFs)
 
 ### **Tableau**  
 #### 🔹 [Samsung Electric Analysis](#samsung-electric-analysis)  
@@ -54,7 +55,8 @@ This repository serves as a **portfolio showcasing my projects** in data analyti
 #### 🔹 [RDF Datasets into Power BI with Python](#rdf-datasets-into-power-bi-with-python)  
 - Integrated **RDF datasets** into **Power BI** using **Python and NetworkX** to create interactive **network visualizations**.  
 - Designed an efficient **data pipeline** to extract, transform, and load data into Power BI for **advanced analysis**.  
-- [Project Code & Details](https://github.com/AnalystAUS/project-rdf-datasets-powerbi-python)  
+- [Project Code & Details](https://github.com/AnalystAUS/project-rdf-datasets-powerbi-python)
+- ▶️ [Dashboard Overview Video Clip](https://youtu.be/0tWV6iNT5uw)
 
 ### **SQL**  
 #### 🔹 [LinkedIn Learning Virtual Restaurant Analysis](#linkedIn-learning-virtual-restaurant-analysis)  
