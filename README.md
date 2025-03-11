@@ -36,7 +36,8 @@ This repository serves as a **portfolio showcasing my projects** in data analyti
 #### 🔹 [WA Electricity Vehicles Market Analysis](#wa-electricity-vehicles-market-analysis)  
 - Analyzed **Western Australia's electric vehicle market** trends using **Power BI**.  
 - Created **interactive dashboards** to visualize **adoption rates, charging infrastructure, and market dynamics**.  
-- [Project Code & Details](https://github.com/AnalystAUS/project-wa-electricity-vehicles)  
+- [Project Code & Details](https://github.com/AnalystAUS/project-wa-electricity-vehicles)
+- [Published Dashboard](https://app.powerbi.com/links/3iFNmY6qL9?ctid=5a740cd7-5768-4d09-ae13-f706b09fa22c&pbi_source=linkShare)  
 
 #### 🔹 [WA Fuel Analysis](#wa-fuel-analysis)  
 - Investigated **fuel price fluctuations** and consumer behavior in **Western Australia**.  
