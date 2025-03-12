@@ -18,7 +18,7 @@ This repository serves as a **portfolio showcasing my projects** in data analyti
     🔹 [WA Electricity Vehicles Market Analysis](#wa-electricity-vehicles-market-analysis)  
     🔹 [WA Fuel Analysis](#wa-fuel-analysis)  
   - [Tableau](#tableau)  
-    🔹 [Samsung Electric Analysis](#samsung-electric-analysis)  
+    🔹 [CSL Analysis](#csl-analysis)  
   - [Python](#python)  
     🔹 [RDF Datasets into Power BI with Python](#rdf-datasets-into-power-bi-with-python)  
   - [SQL](#sql)  
@@ -46,9 +46,9 @@ This repository serves as a **portfolio showcasing my projects** in data analyti
 - ▶️ [Dashboard Overview Video Clip](https://youtu.be/XY9UMDeZFFs)
 
 ### **Tableau**  
-#### 🔹 [Samsung Electric Analysis](#samsung-electric-analysis)  
-- Designed an **interactive Tableau dashboard** to analyze **Samsung's electric products** market performance.  
-- Visualized data on sales trends, product types, and customer demographics.  
+#### 🔹 [CSL Analysis](#csl-analysis)  
+- Designed an **interactive Tableau dashboard** to analyze **CSL** market performance.  
+- Visualized data on yearly trends in EBT (excluding unusual items) and net income, total revenue, expenses, and profitability trends, as well as yearly analysis of SG&A and R&D expenses.
 - [Project Code & Details](https://github.com/AnalystAUS/project-samsung-electric-analysis)
 - 📊 [Published Dashboard](https://public.tableau.com/views/CSL_Viz1994-2023/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
