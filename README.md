@@ -49,7 +49,8 @@ This repository serves as a **portfolio showcasing my projects** in data analyti
 #### 🔹 [Samsung Electric Analysis](#samsung-electric-analysis)  
 - Designed an **interactive Tableau dashboard** to analyze **Samsung's electric products** market performance.  
 - Visualized data on sales trends, product types, and customer demographics.  
-- [Project Code & Details](https://github.com/AnalystAUS/project-samsung-electric-analysis)  
+- [Project Code & Details](https://github.com/AnalystAUS/project-samsung-electric-analysis)
+- 📊 [Published Dashboard](https://public.tableau.com/views/CSL_Viz1994-2023/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### **Python**  
 #### 🔹 [RDF Datasets into Power BI with Python](#rdf-datasets-into-power-bi-with-python)  
